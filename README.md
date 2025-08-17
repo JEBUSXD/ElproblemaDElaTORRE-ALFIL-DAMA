@@ -1,3 +1,3 @@
 # Codigo usando backTracking.
 
-## Este codigo recrea el movimiento de la torre, alfil y dama en una matriz 3x3, el objetibo es que de la esquina superior izquierda se vaya a la esquina inferior derecha. 
+Este codigo recrea el movimiento de la torre, alfil y dama en una matriz 3x3, el objetivo es que de la esquina superior izquierda se vaya a la esquina inferior derecha. 
